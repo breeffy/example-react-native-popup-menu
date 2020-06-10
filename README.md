@@ -2,4 +2,4 @@
 
 Example application with **@breeffy/react-native-popup-menu** integrated.
 
-<img src="https://giphy.com/gifs/TIFPWCfU3KyZyNX1P8/html5" />
+<img src="https://media.giphy.com/media/TIFPWCfU3KyZyNX1P8/giphy.gif" />
