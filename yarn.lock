@@ -665,10 +665,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@breeffy/react-native-popup-menu@0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@breeffy/react-native-popup-menu/-/react-native-popup-menu-0.7.0.tgz#5940469814f47e46f7cd4f1faf96091bfc429bc8"
-  integrity sha512-mEOIw/jERqJFzuveLqOo+IvX+2cuNzncePQQ+nRqal914hpy+tXD1vdrztEzbTdUOLh4vao8LuBEGdqlCUHOSg==
+"@breeffy/react-native-popup-menu@0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@breeffy/react-native-popup-menu/-/react-native-popup-menu-0.8.0.tgz#2ca9afd8e66b0d4e7b2ca42d470c56a95d720204"
+  integrity sha512-1M+iodmajMYPRHeTpEshvd8yG5bWRjOlJvJay5RkfBQ1HOsNQAV6QGeqAtzI/1qpEHp0vafcb1ysVtZkh9IUxg==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
