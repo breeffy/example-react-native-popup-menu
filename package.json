@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@breeffy/react-native-popup-menu": "0.7.0",
+    "@breeffy/react-native-popup-menu": "0.8.0",
     "react": "16.11.0",
     "react-native": "0.62.2"
   },
